@@ -1,0 +1,24 @@
+{
+  "cakes": [
+    {
+      "name": "Bánh Sữa chua Phoma",
+      "price": "315,000₫",
+      "id": 1
+    },
+    {
+      "name": "Mango cake",
+      "price": "300,000₫",
+      "id": 2
+    },
+    {
+      "name": "Mango cake",
+      "price": "3010,000₫",
+      "id": 3
+    },
+    {
+      "name": "Bánh Phúc bồn tử ",
+      "price": "300,000₫",
+      "id": 4
+    }
+  ]
+}
